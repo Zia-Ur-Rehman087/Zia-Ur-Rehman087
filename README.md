@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zia-Ur-Rehman</h1>
-<h3 align="center">A frontend developer help clients to achieve the goal.</h3>
+<h3 align="center">A frontend developer with the experties in html,css,bootstrap,tailwind,React.js and Next.js. Heping buisnesses to expand using their on webApp. and make their buisness one step away from world wide customers.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zia-ur-rehman087&label=Profile%20views&color=0e75b6&style=flat" alt="zia-ur-rehman087" /> </p>
 
